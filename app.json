@@ -1,8 +1,8 @@
 {
-  "name":"LOS RIOS MD 🚘",
-  "description":"LOS RIOS MD MULTIDIVICE CREATED BY VENOCYBER",
-  "keywords":["VENOCYBER","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/efa95dac659f93718b73f.jpg",
+  "name":"MR HEISME-𝐌𝐃 🚘",
+  "description":"MR HEISME-𝐌𝐃 MULTIDIVICE CREATED BY MR HEISME",
+  "keywords":["MR HEISME","node","baileys","whatsapp"],
+  "logo":"https://telegra.ph/file/0584b5b57c8fdde99a583.jpg",
   "repository":"https://github.com/Kingjux/Los-Rios-md",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/efa95dac659f93718b73f.jpg",
+      "value":"https://telegra.ph/file/0584b5b57c8fdde99a583.jpg",
       "required":false
        
      },
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MR VENOCYBER"
+    "value": "MR HEISME"
   },
     "NUMERO_OWNER":
   {
